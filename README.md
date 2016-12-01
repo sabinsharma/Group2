@@ -92,3 +92,12 @@ Group 2  is highly enthusiastic about the opportunity to work with Muskoka Algon
 We look forward to be working with Muskoka Algonquin Healthcare on this exciting redesign and welcome any questions in regard to this proposal.
 					Thank You!
 
+#Ask for Business
+
+Suggestion 1: We are ready to start project, do you need any further clarification (Or What other factors have we not discussed)?
+
+
+Suggestion 2: Would you like to collaborate with us to revamp your website?
+
+
+
