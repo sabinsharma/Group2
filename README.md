@@ -53,3 +53,16 @@ Response:
 1.	Try to explain that taking a proper development time will benefit in having a long running stable system.
 2.	We can have some of the function simplified to shorten the timeline from what we have proposed.
 
+
+
+
+
+
+#Conclusion
+
+
+Having shown our proposal ,we believe that you understand the benefits of a redesigned solution for your website. 
+Group 2  is highly enthusiastic about the opportunity to work with Muskoka Algonquin Healthcare to redesign its website. We believe in providing hospital with high quality solution that will be effective and easy to manage. Our new design will satisfy the needs of  hospital staff and the end users as well.
+We look forward to be working with Muskoka Algonquin Healthcare on this exciting redesign and welcome any questions in regard to this proposal.
+					Thank You!
+
