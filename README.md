@@ -19,6 +19,12 @@ We believe these values are important and what makes a hospital such as yours a 
 
 Through our proposal you will see that these values are important to us too and we want to work with you to make the hospital a beacon to this community spirit that is so important and unique to Muskoka.  
 
+#Problem Statement
+Some points to talk mention at presentation:
+	1. Current website represents an inclusive and patient-focused approach. But we want to expand on this.
+	2. Expand on an existing website, to make most out of it. More user-centered, more user-focused.
+	3. User Experience is of the essence (make the user interaction with website even more convenient).
+	4. Combination of ‘design thinking’ and ‘user-centered design’ approaches.
 
 # Objection proposed
 
