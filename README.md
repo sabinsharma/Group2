@@ -46,33 +46,52 @@ Responsive
 -	Bandwidth 
 	
 	
+#Problem Statement
+Some points to talk mention at presentation:
+	1. Current website represents an inclusive and patient-focused approach. But we want to expand on this.
+	2. Expand on an existing website, to make most out of it. More user-centered, more user-focused.
+	3. User Experience is of the essence (make the user interaction with website even more convenient).
+	4. Combination of ‘design thinking’ and ‘user-centered design’ approaches.
 # CMS Description
 Starting Statement
-Using a content management system(CMS) to power your site could be one of the best investments you make in your website. your website is one of your main tools for communicating with your donor, staff, patient and visitor and you want to make sure they love it. But that doesn’t mean you want to get bogged down in technical details. A CMS marries “power with simplicity” so you still have time to concentrate on improving your services. 
+1.One of your Best Investment
+   "Using CMS to make your website easily maintainable and scalable".
+2."make sure they love it."
+your website is one of your medium for communicating with your donor, staff, patient and visitor.
+3. Do I need to Spend lot of time in technical details?? 
+“power with simplicity”. 
 
 “Makes Life Easy”. I guess everyone has Facebook account here, Would it not be interesting if you could publish website like you update your pictures and status in Facebook?
 
 •	It's easy for the non-technically minded. 
-o	Not all user has the same comfort level with technologies
-o	If you can use word you can use CMS for the basic functions
-o	Don’t have to spent much time in training.
- 
-•	It allows multiple users. 
-o	Users posting blog and user posting contents for the blog
-o	A CMS makes it easy to manage roles and publishing permissions for all these users so that only those you allow can publish content and content only goes live when you’re ready.
-Doing things once and let it do the rest?
-•	It improves site maintenance.
-o	100 of pages and making changes to each page is not a good idea
-o	With the CMS, underlying architecture is the same and it makes the changes of digital content easy and effortless. 
-o	 change in your administrative dashboard and have it automatically propagate to the entire site
-o	consistent appearance and is great for branding
-•	It helps you manage content.
-o	Its not just about publishing content but also removing old contents
+		Not All have the same comfort level with Technology.
+		Using CMS as easy as using MSWord
+		Easy to use after one time training.
+•	Handel By Multiple User 
+		Verification before live in server.
+		manage roles and  permissions for all these users. "Live when permission granted"
+•	Automatice propagation of changes in entire website.
+		Easy site maintenance.
+		Change at one place and change reflected on the entire site.
+		consistent appearance 
+•	manage Your content.
+	If you add content, you might also need to remove content.
 o	Events held in Christmas will have to be probably remove during new year and add new banner for a new year events.
-o	all menus and links update automatically, so that your targeted users continue to have a good experience of the site
-•	You're in control.
-o	 with a CMS you are in control, with the ability to assign tasks and roles and to check progress at any time. That puts you in the driving seat when it comes to this important business tool.
+o	all menus and links update automatically, without having you to go offline and end user continuing to use website.
+•	You're in control of what you want to communicate.
+	
 
+# Backend Description:
+ Backend in general is something thats hidden from the public/ end users.
+ 
+ 1. Sending Request
+ 2. Request processed
+ 3. Response Send back.
+ 4. Storing Information
+ 5. Processing of stored information using Programming Language.
+ 6. Sending Response After processing Information
+ 7. Embedding Paypal for processing monetary transaction.
+ 8. Eg. How Donation information are processed and preserved.
 # Timeline
 
 We have outlined a proposed timeline of 21 weeks until deployment based on what we’ve discussed.
