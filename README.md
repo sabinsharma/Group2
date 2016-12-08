@@ -53,7 +53,7 @@ o	all menus and links update automatically, so that your targeted users continue
 •	You're in control.
 o	 with a CMS you are in control, with the ability to assign tasks and roles and to check progress at any time. That puts you in the driving seat when it comes to this important business tool.
 
-Timeline
+# Timeline
 
 We have outlined a proposed timeline of 21 weeks until deployment based on what we’ve discussed.
 
