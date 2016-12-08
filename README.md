@@ -26,6 +26,10 @@ Some points to talk mention at presentation:
 	3. User Experience is of the essence (make the user interaction with website even more convenient).
 	4. Combination of ‘design thinking’ and ‘user-centered design’ approaches.
 	
+# strategy
+
+# content description
+
 # Interface description
 
 Our Design are:
