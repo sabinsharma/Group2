@@ -96,6 +96,7 @@ o	all menus and links update automatically, without having you to go offline and
  6. Sending Response After processing Information
  7. Embedding Paypal for processing monetary transaction.
  8. Eg. How Donation information are processed and preserved.
+ 
 # Timeline
 
 We have outlined a proposed timeline of 21 weeks until deployment based on what we’ve discussed.
@@ -115,7 +116,7 @@ For added convenience this training can be run remotely and we will also produce
 During the 14 days – 3 additional sessions after project delivery and during the website’s “deployment” phase, 
 -	address any technical issues and/or changes. We recommend that you compile any changes you need, any further changes will be billable.
 
-#Conclusion
+# Conclusion
 
 
 Having shown our proposal ,we believe that you understand the benefits of a redesigned solution for your website. 
@@ -123,7 +124,7 @@ Group 2  is highly enthusiastic about the opportunity to work with Muskoka Algon
 We look forward to be working with Muskoka Algonquin Healthcare on this exciting redesign and welcome any questions in regard to this proposal.
 					Thank You!
 
-#Ask for Business
+# Ask for Business
 
 Suggestion 1: We are ready to start project, do you need any further clarification (Or What other factors have we not discussed)?
 
