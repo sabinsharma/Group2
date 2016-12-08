@@ -25,6 +25,7 @@ Some points to talk mention at presentation:
 	2. Expand on an existing website, to make most out of it. More user-centered, more user-focused.
 	3. User Experience is of the essence (make the user interaction with website even more convenient).
 	4. Combination of ‘design thinking’ and ‘user-centered design’ approaches.
+	
 # CMS Description
 Starting Statement
 Using a content management system(CMS) to power your site could be one of the best investments you make in your website. your website is one of your main tools for communicating with your donor, staff, patient and visitor and you want to make sure they love it. But that doesn’t mean you want to get bogged down in technical details. A CMS marries “power with simplicity” so you still have time to concentrate on improving your services. 
@@ -51,6 +52,37 @@ o	Events held in Christmas will have to be probably remove during new year and a
 o	all menus and links update automatically, so that your targeted users continue to have a good experience of the site
 •	You're in control.
 o	 with a CMS you are in control, with the ability to assign tasks and roles and to check progress at any time. That puts you in the driving seat when it comes to this important business tool.
+
+Timeline
+
+We have outlined a proposed timeline of 21 weeks until deployment based on what we’ve discussed.
+
+The first three weeks will be used to produce a Feasibility Study which will help to develop and cement the specific tasks required to complete your website. 
+
+We will then work on the graphic design and interface design for your website, and develop the fundemental functionality required.
+
+Backend development and coding of the content and the content management system will follow in the 7th week and is the longest part of the process. 
+
+It  is always important to give this a significant amount of time since we operate with an “Agile” work methodology which allows to us to focus on developing, testing and delivering each part of your project as we proceed.
+
+3 weeks training at the end on CMS + work together to organise a convenient schedule for us to work with your staff for this. 
+
+For added convenience this training can be run remotely and we will also produce a document to help with this process.
+
+During the 14 days – 3 additional sessions after project delivery and during the website’s “deployment” phase, 
+-	address any technical issues and/or changes. We recommend that you compile any changes you need, any further changes will be billable.
+
+#Conclusion
+
+
+Having shown our proposal ,we believe that you understand the benefits of a redesigned solution for your website. 
+Group 2  is highly enthusiastic about the opportunity to work with Muskoka Algonquin Healthcare to redesign its website. We believe in providing hospital with high quality solution that will be effective and easy to manage. Our new design will satisfy the needs of  hospital staff and the end users as well.
+We look forward to be working with Muskoka Algonquin Healthcare on this exciting redesign and welcome any questions in regard to this proposal.
+					Thank You!
+
+#Ask for Business
+
+Suggestion 1: We are ready to start project, do you need any further clarification (Or What other factors have we not discussed)?
 
 # Objection proposed
 
@@ -84,17 +116,7 @@ Response:
 
 
 
-#Conclusion
 
-
-Having shown our proposal ,we believe that you understand the benefits of a redesigned solution for your website. 
-Group 2  is highly enthusiastic about the opportunity to work with Muskoka Algonquin Healthcare to redesign its website. We believe in providing hospital with high quality solution that will be effective and easy to manage. Our new design will satisfy the needs of  hospital staff and the end users as well.
-We look forward to be working with Muskoka Algonquin Healthcare on this exciting redesign and welcome any questions in regard to this proposal.
-					Thank You!
-
-#Ask for Business
-
-Suggestion 1: We are ready to start project, do you need any further clarification (Or What other factors have we not discussed)?
 
 
 Suggestion 2: Would you like to collaborate with us to revamp your website?
