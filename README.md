@@ -42,7 +42,7 @@ User Centered Design
 -	Split the navigation based on user groups 
 o	Patient
 o	 medical professional
-o	research/education
+to	research/education
 o	 donors/giving
 Responsive
 -	Easy access
@@ -52,7 +52,7 @@ Responsive
 	
 #Problem Statement
 Some points to talk mention at presentation:
-	1. Current website represents an inclusive and patient-focused approach. But we want to expand on this.
+ 	1. Current website represents an inclusive and patient-focused approach. But we want to expand on this.
 	2. Expand on an existing website, to make most out of it. More user-centered, more user-focused.
 	3. User Experience is of the essence (make the user interaction with website even more convenient).
 	4. Combination of ‘design thinking’ and ‘user-centered design’ approaches.
@@ -86,8 +86,7 @@ o	all menus and links update automatically, without having you to go offline and
 
 # Backend Description:
  Backend in general is something thats hidden from the public/ end users.
- We propose to use the backend for the website.
- Intermediator between the website users and the hospital staff.
+ We propose to use the backend for the website.It is like a large excel sheet where you can store your data in a logical way.It acts as   an Intermediator between the website users and the hospital staff.
  For instance you will enter the information into the database and that information will be fetched by the users visiting the website
  by using specific search criteria.
  
