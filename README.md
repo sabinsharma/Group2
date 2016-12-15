@@ -64,7 +64,6 @@ Starting Statement
 your website is one of your medium for communicating with your donor, staff, patient and visitor.
 3. Do I need to Spend lot of time in technical details?? 
 “power with simplicity”. 
-
 “Makes Life Easy”. I guess everyone has Facebook account here, Would it not be interesting if you could publish website like you update your pictures and status in Facebook?
 
 •	It's easy for the non-technically minded. 
@@ -87,15 +86,12 @@ o	all menus and links update automatically, without having you to go offline and
 
 # Backend Description:
  Backend in general is something thats hidden from the public/ end users.
+ We propose to use the backend for the website.
+ Intermediator between the website users and the hospital staff.
+ For instance you will enter the information into the database and that information will be fetched by the users visiting the website
+ by using specific search criteria.
  
- 1. Sending Request
- 2. Request processed
- 3. Response Send back.
- 4. Storing Information
- 5. Processing of stored information using Programming Language.
- 6. Sending Response After processing Information
- 7. Embedding Paypal for processing monetary transaction.
- 8. Eg. How Donation information are processed and preserved.
+ This also ensures that the data entered into the database remains secured over the time.
  
 # Timeline
 
